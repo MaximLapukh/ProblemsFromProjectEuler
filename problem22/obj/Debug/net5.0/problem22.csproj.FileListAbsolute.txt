@@ -1,0 +1,16 @@
+C:\Users\max\source\repos\problem22\problem22\bin\Debug\net5.0\problem22.exe
+C:\Users\max\source\repos\problem22\problem22\bin\Debug\net5.0\problem22.deps.json
+C:\Users\max\source\repos\problem22\problem22\bin\Debug\net5.0\problem22.runtimeconfig.json
+C:\Users\max\source\repos\problem22\problem22\bin\Debug\net5.0\problem22.runtimeconfig.dev.json
+C:\Users\max\source\repos\problem22\problem22\bin\Debug\net5.0\problem22.dll
+C:\Users\max\source\repos\problem22\problem22\bin\Debug\net5.0\ref\problem22.dll
+C:\Users\max\source\repos\problem22\problem22\bin\Debug\net5.0\problem22.pdb
+C:\Users\max\source\repos\problem22\problem22\obj\Debug\net5.0\problem22.csprojAssemblyReference.cache
+C:\Users\max\source\repos\problem22\problem22\obj\Debug\net5.0\problem22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\source\repos\problem22\problem22\obj\Debug\net5.0\problem22.AssemblyInfoInputs.cache
+C:\Users\max\source\repos\problem22\problem22\obj\Debug\net5.0\problem22.AssemblyInfo.cs
+C:\Users\max\source\repos\problem22\problem22\obj\Debug\net5.0\problem22.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\problem22\problem22\obj\Debug\net5.0\problem22.dll
+C:\Users\max\source\repos\problem22\problem22\obj\Debug\net5.0\ref\problem22.dll
+C:\Users\max\source\repos\problem22\problem22\obj\Debug\net5.0\problem22.pdb
+C:\Users\max\source\repos\problem22\problem22\obj\Debug\net5.0\problem22.genruntimeconfig.cache

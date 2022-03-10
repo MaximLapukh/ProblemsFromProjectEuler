@@ -1,0 +1,15 @@
+C:\Users\max\source\repos\problem22\problem55\bin\Debug\net5.0\problem55.exe
+C:\Users\max\source\repos\problem22\problem55\bin\Debug\net5.0\problem55.deps.json
+C:\Users\max\source\repos\problem22\problem55\bin\Debug\net5.0\problem55.runtimeconfig.json
+C:\Users\max\source\repos\problem22\problem55\bin\Debug\net5.0\problem55.runtimeconfig.dev.json
+C:\Users\max\source\repos\problem22\problem55\bin\Debug\net5.0\problem55.dll
+C:\Users\max\source\repos\problem22\problem55\bin\Debug\net5.0\ref\problem55.dll
+C:\Users\max\source\repos\problem22\problem55\bin\Debug\net5.0\problem55.pdb
+C:\Users\max\source\repos\problem22\problem55\obj\Debug\net5.0\problem55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\source\repos\problem22\problem55\obj\Debug\net5.0\problem55.AssemblyInfoInputs.cache
+C:\Users\max\source\repos\problem22\problem55\obj\Debug\net5.0\problem55.AssemblyInfo.cs
+C:\Users\max\source\repos\problem22\problem55\obj\Debug\net5.0\problem55.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\problem22\problem55\obj\Debug\net5.0\problem55.dll
+C:\Users\max\source\repos\problem22\problem55\obj\Debug\net5.0\ref\problem55.dll
+C:\Users\max\source\repos\problem22\problem55\obj\Debug\net5.0\problem55.pdb
+C:\Users\max\source\repos\problem22\problem55\obj\Debug\net5.0\problem55.genruntimeconfig.cache

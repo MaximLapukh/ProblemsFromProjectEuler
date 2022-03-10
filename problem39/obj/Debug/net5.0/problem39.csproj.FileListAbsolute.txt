@@ -1,0 +1,16 @@
+C:\Users\max\source\repos\problem22\problem39\bin\Debug\net5.0\problem39.exe
+C:\Users\max\source\repos\problem22\problem39\bin\Debug\net5.0\problem39.deps.json
+C:\Users\max\source\repos\problem22\problem39\bin\Debug\net5.0\problem39.runtimeconfig.json
+C:\Users\max\source\repos\problem22\problem39\bin\Debug\net5.0\problem39.runtimeconfig.dev.json
+C:\Users\max\source\repos\problem22\problem39\bin\Debug\net5.0\problem39.dll
+C:\Users\max\source\repos\problem22\problem39\bin\Debug\net5.0\ref\problem39.dll
+C:\Users\max\source\repos\problem22\problem39\bin\Debug\net5.0\problem39.pdb
+C:\Users\max\source\repos\problem22\problem39\obj\Debug\net5.0\problem39.csprojAssemblyReference.cache
+C:\Users\max\source\repos\problem22\problem39\obj\Debug\net5.0\problem39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max\source\repos\problem22\problem39\obj\Debug\net5.0\problem39.AssemblyInfoInputs.cache
+C:\Users\max\source\repos\problem22\problem39\obj\Debug\net5.0\problem39.AssemblyInfo.cs
+C:\Users\max\source\repos\problem22\problem39\obj\Debug\net5.0\problem39.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\problem22\problem39\obj\Debug\net5.0\problem39.dll
+C:\Users\max\source\repos\problem22\problem39\obj\Debug\net5.0\ref\problem39.dll
+C:\Users\max\source\repos\problem22\problem39\obj\Debug\net5.0\problem39.pdb
+C:\Users\max\source\repos\problem22\problem39\obj\Debug\net5.0\problem39.genruntimeconfig.cache
